@@ -1,4 +1,4 @@
-# 16-bit Multi-Cycle RISC Processor (Verilog)
+# 16-bit Multi-Cycle RISC Processor 
 
 ## 📖 Overview
 
